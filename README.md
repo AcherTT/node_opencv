@@ -8,7 +8,11 @@
 
 在自己的电脑上安装opencv，要求4.X版本
 
+**推荐：**也可以直接克隆放进node_modules
+
 `npm install image_corret`
+
+由于我在墙内，上传npm会滞后或者有点问题，ε=(´ο｀*)))唉
 
 ## 版本介绍
 
